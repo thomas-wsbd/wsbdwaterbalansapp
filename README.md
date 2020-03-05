@@ -6,3 +6,5 @@ Voorbeeld van simpel waterbalans dashboard voor geclusterde peilgebieden (combin
 
 PS.
 Qua data mist er een shapefile (Geclusterde_peilvakken.shp), ik kreeg deze zo snel niet geupload.
+
+![dashboard](https://github.com/thomas-wsbd/wsbdwaterbalansapp/blob/master/img/dashboard.PNG)
